@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naresh1435
+- 👋 Hi, I’m @Naresh
 - 👀 I’m interested in Cloud AI
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Open source projects
